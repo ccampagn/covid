@@ -1,2 +1,2 @@
 # covid
-Simple program that read the New York Times Coronavirus Data and produce the number of new cases for each county.
+A program that collect usa, state and county level data for coronavirus data. The program produce different graphs and tables.
